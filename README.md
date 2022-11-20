@@ -4,7 +4,7 @@
 
 2/ IBM Data Analyst: mySQL, Excel, Python
 
--------------------------------o0o------------------------------------------
+-------------------------------o0o------------------------
 IBM Data Analyst:
 Demonstrate proficiency in using spreadsheets and utilizing Excel to perform a variety of data analysis tasks like data wrangling and data mining
 
@@ -14,7 +14,7 @@ Develop working knowledge of Python language for analyzing data using Python lib
 
 Describe data ecosystem and Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks
 
--------------------------------o0o--------------------------------------------
+-------------------------------o0o------------------------
 Google Data  Analytics:
 Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
 

@@ -7,6 +7,7 @@
 3/ Excel to MySQL (Duke Uni): Excel, MySQL, Tableau
 
 ----IBM Data Analyst:---
+
 Demonstrate proficiency in using spreadsheets and utilizing Excel to perform a variety of data analysis tasks like data wrangling and data mining
 
 Create various charts and plots in Excel & work with IBM Cognos Analytics to build dashboards. Visualize data using Python libraries like Matplotlib
@@ -24,6 +25,7 @@ Learn key analytical skills (data cleaning, analysis, & visualization) and tools
 Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
 
 Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms
+
 ---Excel to MySQL_Analytic Techniques for Business ---
 
 Business Metrics for Data-Driven Companies

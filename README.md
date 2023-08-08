@@ -1,39 +1,62 @@
 # Data_analytics
 
-1/ Google Data  Analytics: BigQuerry, Google Sheets, Tableau, R language
 
-2/ IBM Data Analyst: MySQL, Excel, Python, IBM Cognos
+[1/ IBM Data Analyst] (https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
 
-3/ Excel to MySQL (Duke Uni): Excel, MySQL, Tableau
+* Data Analysis
 
-----IBM Data Analyst:---
+* Data Visualization (DataViz)
 
-Demonstrate proficiency in using spreadsheets and utilizing Excel to perform a variety of data analysis tasks like data wrangling and data mining
+* Python Programming
 
-Create various charts and plots in Excel & work with IBM Cognos Analytics to build dashboards. Visualize data using Python libraries like Matplotlib
+* SQL
 
-Develop working knowledge of Python language for analyzing data using Python libraries like Pandas and Numpy, and invoke APIs and Web Services
+* Dashboard
 
-Describe data ecosystem and Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks
+* Microsoft Excel
 
------Google Data  Analytics:----
+* Pandas
 
-Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
+* Numpy
 
-Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau) 
+* Data Science
 
-Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
+* Spreadsheet
 
-Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms
+* Pivot Table
 
----Excel to MySQL_Analytic Techniques for Business ---
+* IBM Cognos Analytics 
 
-Business Metrics for Data-Driven Companies
+[2/ Google Data Analytics](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
 
-Mastering Data Analysis in Excel
+* Problem Solving
 
-Data Visualization and Communication with Tableau
+* Data Analysis
 
-Managing Big Data with MySQL
+* Data Collection
 
-Increasing Real Estate Management Profits: Harnessing Data Analytics
+* Data Cleansing
+
+* Data Aggregation
+
+* Data Calculations
+
+* Data Visualization (DataViz)
+
+* Presentation
+
+* SQL
+
+* Spreadsheet
+
+* Tableau Software
+
+* Decision-Making
+
+* Rstudio
+ 
+[3/ Excel to MySQL (Duke Uni] (https://github.com/vanthachvn80/Data_analytics/tree/main/Excel%20to%20MySQL_Analytic%20Techniques%20for%20Business%20(Duke%20Uni))
+
+
+
+

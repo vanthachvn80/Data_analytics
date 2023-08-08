@@ -1,7 +1,7 @@
 # Data_analytics
 
 
-[1/ IBM Data Analyst] (https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
+[1/ IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
 
 * Data Analysis
 
@@ -55,7 +55,7 @@
 
 * Rstudio
  
-[3/ Excel to MySQL (Duke Uni] (https://github.com/vanthachvn80/Data_analytics/tree/main/Excel%20to%20MySQL_Analytic%20Techniques%20for%20Business%20(Duke%20Uni))
+[3/ Excel to MySQL (Duke Uni)](https://github.com/vanthachvn80/Data_analytics/tree/main/Excel%20to%20MySQL_Analytic%20Techniques%20for%20Business%20(Duke%20Uni))
 
 
 

@@ -14,3 +14,6 @@
 4/ [câu hoi phong van vi trí Data Analytics](https://github.com/vanthachvn80/Data_analytics/blob/main/M%E1%BB%99t%20s%E1%BB%91%20c%C3%A2u%20h%E1%BB%8Fi%20technical%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20Data%20Analytics_Aug%202023.pdf)
 
 5/ [Applied Plotting, Charting & Data Representation in Python (Uni of Michigan)](https://github.com/vanthachvn80/Data_analytics/tree/main/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python%20(Uni%20of%20Michigan))
+
+
+6/ [IBM Data Analyst Career Guide and Interview Preparation.pdf](https://github.com/vanthachvn80/Data_analytics/blob/main/IBM%20Data%20Analyst%20Career%20Guide%20and%20Interview%20Preparation.pdf)

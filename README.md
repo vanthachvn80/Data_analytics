@@ -3,15 +3,15 @@
 
 1/ [IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
 
+![IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/blob/main/IBM%20Data%20Analyst/IBM%20Data%20Analyst%20badge.png) 
 
-
-IBM Data Analyst Badge:[Badge URL](https://www.credly.com/earner/earned/badge/25d6a336-c83b-4d61-969d-5a0c7185b98f)
+[Credly URL](https://www.credly.com/earner/earned/badge/25d6a336-c83b-4d61-969d-5a0c7185b98f)
 
 2/ [Google Data Analytics](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
 
+![Google Data Analytics](https://github.com/vanthachvn80/Data_analytics/blob/main/Google%20Data%20Analytics/Google%20Data%20Analytics%20badge.png) 
 
-
-Google Data Analytics Badge:[Badge URL](https://www.credly.com/earner/earned/badge/8c5b9f60-7500-448d-a701-f0aa7cd0dd48) 
+[Credly URL](https://www.credly.com/earner/earned/badge/8c5b9f60-7500-448d-a701-f0aa7cd0dd48) 
 
 
 3/ [Excel to MySQL (Duke Uni)](https://github.com/vanthachvn80/Data_analytics/tree/main/Excel%20to%20MySQL_Analytic%20Techniques%20for%20Business%20(Duke%20Uni))

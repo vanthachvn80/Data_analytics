@@ -5,18 +5,10 @@ Virtual internship
 7/ [Data Analytics Virtual Internship (KPMG)](https://github.com/vanthachvn80/Data_analytics/tree/main/KPMG_Data_Analytics_Virtual_Internship)
 
 6/ [IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
-| |Courses|
+|IBM DA badge |Courses|
 |:----|:----|
-|![IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/blob/main/IBM%20Data%20Analyst/IBM%20Data%20Analyst%20badge.png)| - Introduction to Data Analytics
-- Excel Basics for Data Analysis
-- Data Visualization and Dashboards with Excel and Cognos
-- Python for Data Science, AI & Development
-- Python Project for Data Science
-- Databases and SQL for Data Science with Python
-- Data Analysis with Python
-- Data Visualization with Python
-- IBM Data Analyst Capstone Project|
-|Credly [URL](https://www.credly.com/earner/earned/badge/25d6a336-c83b-4d61-969d-5a0c7185b98f) |…|
+|![IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/blob/main/IBM%20Data%20Analyst/IBM%20Data%20Analyst%20badge.png)| - Introduction to Data Analytics - Excel Basics for Data Analysis - Data Visualization and Dashboards with Excel and Cognos - Python for Data Science, AI & Development - Python Project for Data Science - Databases and SQL for Data Science with Python - Data Analysis with Python - Data Visualization with Python - IBM Data Analyst Capstone Project|
+|Credly [URL](https://www.credly.com/earner/earned/badge/25d6a336-c83b-4d61-969d-5a0c7185b98f) |-|
 
 
 5/ [Google Data Analytics](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)

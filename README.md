@@ -7,8 +7,8 @@ Virtual internship
 6/ [IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
 |IBM DA badge |Courses|
 |:----|:----|
-|![IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/blob/main/IBM%20Data%20Analyst/IBM%20Data%20Analyst%20badge.png)| - Introduction to Data Analytics - Excel Basics for Data Analysis - Data Visualization and Dashboards with Excel and Cognos - Python for Data Science, AI & Development - Python Project for Data Science - Databases and SQL for Data Science with Python - Data Analysis with Python - Data Visualization with Python - IBM Data Analyst Capstone Project|
-|Credly [URL](https://www.credly.com/earner/earned/badge/25d6a336-c83b-4d61-969d-5a0c7185b98f) |-|
+|![IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/blob/main/IBM%20Data%20Analyst/IBM%20Data%20Analyst%20badge.png)| 1. Introduction to Data Analytics 2. Excel Basics for Data Analysis 3. Data Visualization and Dashboards with Excel and Cognos 4. Python for Data Science, AI & Development 5. Python Project for Data Science 6. Databases and SQL for Data Science with Python 7. Data Analysis with Python 8. Data Visualization with Python 9. IBM Data Analyst Capstone Project|
+|Credly|[URL](https://www.credly.com/earner/earned/badge/25d6a336-c83b-4d61-969d-5a0c7185b98f|
 
 
 5/ [Google Data Analytics](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)

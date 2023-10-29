@@ -2,6 +2,7 @@
 IBM, Google analytics
 Virtual internship
 
+8/ Funix_Data Analysis [url](https://github.com/vanthachvn80/Data_analytics/tree/main/Funix_Data%20Analysis)
 7/ [Data Analytics Virtual Internship (KPMG)](https://github.com/vanthachvn80/Data_analytics/tree/main/KPMG_Data_Analytics_Virtual_Internship)
 
 6/ [IBM Data Analyst](https://github.com/vanthachvn80/Data_analytics/tree/main/IBM%20Data%20Analyst)
